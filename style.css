@@ -1,0 +1,64 @@
+/* Edit your Navbar here */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+/* Edit your Footer here */
+.footer {
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  color: white;
+  background-color: grey;
+  bottom: 0;
+  left: 0;
+}
+.heading{
+  height:100px;
+  text-align: center;
+}
+
+.text{
+  width: 45%;
+  float:right;
+  margin-left: 25px;
+  
+}
+
+.image{
+  width: 45%;
+  height: 45%;
+  float: left;
+  margin-right: 25px;
+}
+
+.search{
+  float: center;
+  padding: 6px;
+  text-align: center;
+  margin-top: 8px;
+  
+  font-size: 17px;
+  margin-bottom: 30px;
+  
+}
